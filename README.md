@@ -6,4 +6,6 @@
 所以第一次运行可能会提示错误
 运行第二次即可！
 # 网络问题构建失败？
-参考https://www.mcbbs.net/thread-1149682-1-1.html即可
+参考
+https://www.mcbbs.net/thread-1149682-1-1.html
+进行优化节点即可
