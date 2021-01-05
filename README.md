@@ -1,4 +1,4 @@
-# quicklybuildspigot
+# 快速构建Spigot服务端
 快速构建spigot服务器
 运行bat即可进行构建！
 # 注意
